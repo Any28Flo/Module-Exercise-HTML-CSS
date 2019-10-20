@@ -59,7 +59,6 @@ nav {
     margin-top: 2em;
     margin-left: 2em;
   }
-
   
   .search{
   display: flex;    
@@ -172,9 +171,12 @@ nav {
     padding-bottom: 3em;
     text-align: center;
   }
+  .info h2{
+    color :rgb(83, 88, 98);
+  }
   .info p{
     font-size: 1em;
-
+    color:  rgb(135, 145, 156);
   }
   #box-container {
     display: flex;
@@ -185,5 +187,16 @@ nav {
     width: 33.3%;
     height: 33.3%;
     text-align: center;
+    color: 
   }
+  .box-3 h3{
+    color :rgb(83, 88, 98);
 
+  }
+  .box-3 p{
+    color:  rgb(135, 145, 156);
+  }
+.redHyperlink{
+  color:rgb(208, 74, 73);
+  text-decoration: none;
+}
